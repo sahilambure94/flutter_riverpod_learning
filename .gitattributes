@@ -1,6 +1,5 @@
 *.html linguist-detectable=false
 *.cpp linguist-detectable=false
-*.cmake linguist-detectable=false
 *.cmake.in linguist-detectable=false
 *.idc linguist-detectable=false
 *.swift linguist-detectable=false
