@@ -1,4 +1,4 @@
-# flutter_riverpod_learning
+# Flutter Riverpod Learning
 
 This are examples I created while learning flutter riverpod state management.
 Feel free to take a look around.
