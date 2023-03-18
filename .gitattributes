@@ -1,7 +1,8 @@
 *.html linguist-detectable=false
-*.c++ linguist-detectable=false
+*.cpp linguist-detectable=false
 *.cmake linguist-detectable=false
-*.c linguist-detectable=false
-*.swif linguist-detectable=false
-*.kotlin linguist-detectable=false
-*.objective-c linguist-detectable=fals
+*.cmake.in linguist-detectable=false
+*.idc linguist-detectable=false
+*.swift linguist-detectable=false
+*.kt linguist-detectable=false
+*.m linguist-detectable=fals
