@@ -5,4 +5,5 @@
 *.idc linguist-detectable=false
 *.swift linguist-detectable=false
 *.kt linguist-detectable=false
-*.m linguist-detectable=fals
+*.m linguist-detectable=false
+*.dart linguist-detectable=true
