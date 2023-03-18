@@ -59,7 +59,7 @@ class MyHomePage extends ConsumerWidget {
         title: Consumer(
           builder: (context, ref, child) {
             final count = ref.watch(counterProvider);
-            final text = count == null ? 'Press the Button' : '$count';
+            final text = count == null ? 'Press the Button' : count.toString();
             return Text(text);
           },
         ),
