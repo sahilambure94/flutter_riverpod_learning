@@ -1,16 +1,6 @@
-# example3
+State Provider
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/76648609/226108217-e9777f73-dcd4-49ab-b4a0-0be691168edc.png)
+![image](https://user-images.githubusercontent.com/76648609/226108231-4138da3e-8695-42d7-8b9a-85dac8c6b7a2.png)
+![image](https://user-images.githubusercontent.com/76648609/226108252-25784e7f-40f9-4d41-b3aa-fa3daef2d573.png)
+![image](https://user-images.githubusercontent.com/76648609/226108261-5496e53b-f6f6-4efc-b3ec-1aa54a04d93f.png)
