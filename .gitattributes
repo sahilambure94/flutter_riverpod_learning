@@ -9,8 +9,6 @@
 *.gradle linguist-detectable=false
 *.json linguist-detectable=false
 *.plist linguist-detectable=false
-*.make linguist-detectable=false
-*.js linguist-detectable=false
 *.html linguist-detectable=false
 *.xml linguist-detectable=false
 *.xib linguist-detectable=false
@@ -21,4 +19,3 @@
 *.xc* linguist-detectable=false
 Podfile linguist-detectable=false
 CMakeLists.txt linguist-detectable=false
-flutter_riverpod_learning/example6/* linguist-vendored
