@@ -195,10 +195,12 @@ class FilterWidget extends StatelessWidget {
         return DropdownButton(
           value: ref.watch(favoriteStatusProvider),
           items: FavoriteStatus.values
-              .map((fs) => DropdownMenuItem(
-                    value: fs,
-                    child: Text(fs.toString().split('.').last),
-                  ))
+              .map(
+                (fs) => DropdownMenuItem(
+                  value: fs,
+                  child: Text(fs.toString().split('.').last),
+                ),
+              )
               .toList(),
           onChanged: (fs) {
             ref.read(favoriteStatusProvider.notifier).state = fs!;
