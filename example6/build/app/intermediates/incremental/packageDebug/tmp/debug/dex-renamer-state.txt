@@ -1,4 +1,0 @@
-#Thu Apr 06 14:03:37 IST 2023
-base.0=D\:\\Flutter\\Riverpod\\flutter_riverpod_learning\\example6\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
